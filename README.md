@@ -6,7 +6,7 @@ Greetings this is my GitHub page where you can learn more about me as a Develope
 If any of my repositories spark your creativity message me :)
 
 
-<h1>Connect:</h1>
+<h1>Connect</h1>
 <table>
 <tr>
 <th> Contacs </th>
