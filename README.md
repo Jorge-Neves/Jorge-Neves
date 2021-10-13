@@ -15,13 +15,15 @@ If any of my repositories spark your creativity message me :)
  <div>
  <br>
  <div align="center">
- <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a>  
- <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a>   
+ <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a> 
+  <h1>+351 927434141</h1>  
+ <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a>
+  <h1>Paulo.Jorge.Ngs@gmail.com</h1>
 </div>
 
 
 
-email :  Paulo.Jorge.Ngs@gmail.com
+
 
 
 
