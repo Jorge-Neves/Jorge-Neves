@@ -37,10 +37,10 @@ email :  Paulo.Jorge.Ngs@gmail.com
 
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
 
-Portfolio
+Projects:
 <br>
 <hr>
-Feel free to browse my projects in following links:
+
 
 Save The Theater
 <br>
