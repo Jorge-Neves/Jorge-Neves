@@ -2,7 +2,6 @@
 
 <h1>About Me </h1>
 <br>
-<hr>
 Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :)
 
