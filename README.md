@@ -23,7 +23,8 @@ email :  Paulo.Jorge.Ngs@gmail.com
 <td>
 
 
- <a href="hhttps://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><p>CV link</p></a>
+ <a 
+    href="hhttps://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">CV link</a>
 </td>
 <td>
  Phone Number: +351 927 434 141
