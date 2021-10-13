@@ -6,7 +6,7 @@ Greetings this is my GitHub page where you can learn more about me as a Develope
 If any of my repositories spark your creativity message me :)
 
 
-<h1>Connect</h1>
+<h1>Contacts</h1>
 <table>
 <tr>
 <th> Contacs </th>
@@ -15,7 +15,7 @@ If any of my repositories spark your creativity message me :)
 <tr>
 <td>
 
-<div> <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><p>LinkedIn</p></a></div>
+<div> <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon"> </a></div>
 
 </td>
 <td>
