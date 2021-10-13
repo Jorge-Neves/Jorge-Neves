@@ -1,11 +1,11 @@
 <img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos"> 
 
-## About Me
+##About Me
 Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :)
 
 
-##Connect:
+<h1>Connect:</h1>
 <table>
 <tr>
 <th> Contacs </th>
@@ -41,12 +41,12 @@ email :  Paulo.Jorge.Ngs@gmail.com
 
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
 
-##Projects:
+<h1>Projects:</h1>
 <br>
 <hr>
 
 
-##Save The Theater
+<h1>Save The Theater</h1>
 <br>
 <hr>
 A vintage style RPG where the player actions decide the fate of the theatre:
@@ -61,7 +61,7 @@ JavaScript | CSS | HTML | BootStrap | Netlify
 <br>
 <br>
 <br>
-##Quidditch Manager 
+<h1>Quidditch Manager</h1>
 <br>
 <hr>
 A fantasy sports simulator that was based on the sport of quidditch from the
@@ -79,7 +79,7 @@ NodeJS | Express | Handlebars | JavaScript | Rest API’s | CSS | HTML | Rest AP
 <br>
 <br>
 <br>
-##High Noon 
+<h1>High Noon</h1>
 <br>
 <hr>
 was the final project of the bootcamp so we developed a MERN stack High Noon is a productivity app
