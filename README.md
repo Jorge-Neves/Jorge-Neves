@@ -42,7 +42,7 @@ email :  Paulo.Jorge.Ngs@gmail.com
 
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Live Projects</h1>
 <br>
 <hr>
 
