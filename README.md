@@ -7,6 +7,7 @@ If any of my repositories spark your creativity message me :)
 <table>
 <tr>
 <th> Contacs </th>
+  <th> Contacs </th>
 </tr>
 <tr>
 <td>
@@ -23,8 +24,8 @@ email :  Paulo.Jorge.Ngs@gmail.com
 <td>
 
 
- <a 
-    href="hhttps://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">CV link</a>
+<div> <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">CV</a></div> 
+ <div> <a href="https://drive.google.com/file/d/1VOlOGoUkZOUoigkTdnbTUlkTSDYeEUyG/view?usp=sharing" target="_blank">Pdf</a></div>
 </td>
 <td>
  Phone Number: +351 927 434 141
