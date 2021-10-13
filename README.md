@@ -1,4 +1,6 @@
-### Hi there 👋
+### Thank you for stopping by
+<img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos"> 
+
 
 <!--
 **Jorge-Neves/Jorge-Neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img src="/Github_Footer.png " alt="A Footer inviting visitors to connect"> 
