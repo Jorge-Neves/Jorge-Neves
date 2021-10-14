@@ -1,4 +1,4 @@
-<div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="200px" /></div>
+<div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="150px" /></div>
 <h3>About Me </h3>
 <hr>
 <br>
