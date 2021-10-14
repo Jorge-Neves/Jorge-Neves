@@ -29,7 +29,9 @@ If any of my repositories spark your creativity message me :)
 <br>
 
   <a href="https://savethetheatre2021.netlify.app/" target="_blank">Save the Theater</a> 
+  <br>
   <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank">Quidditch Manager</a>
+  <br>
   <a href="https://highnoontimetracker.netlify.app/" target="_blank">High Noon</a>
  </div> 
 <br>
