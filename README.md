@@ -19,12 +19,13 @@ If any of my repositories spark your creativity message me :)
  <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/Phone-removebg-preview.png" alt="avatar icon" target="_blank"> </a>
   <p>CV</p>
 </div> -->
-
+<br>
+<br>
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
-
+<br>
+<br>
 <h1 align="center">Live Projects</h1>
 <br>
-<hr>
 <br>
 <div align="center"> 
   <a href="https://savethetheatre2021.netlify.app/" target="_blank"><img src="/Save.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a> 
