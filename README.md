@@ -1,10 +1,10 @@
-<img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos"> 
+<div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="200px" /> </div>
 <h3>About Me </h3>
 <br>
 <p>Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :) </p>
 <h3>Contacts</h3>
-<div align="center"> 
+ align="center"> 
  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a> 
   <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><p>LinkedIn</p> </a> 
   </div>
@@ -25,4 +25,4 @@ If any of my repositories spark your creativity message me :) </p>
   <a href="https://highnoontimetracker.netlify.app/" target="_blank">High Noon</a>
  </div> 
 <br>
-<img src="/Github_Footer.png " alt="A Footer inviting visitors to connect"> 
+<img src="/Github_Footer.png " alt="A Footer inviting visitors to connect" /> 
