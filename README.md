@@ -24,7 +24,7 @@ If any of my repositories spark your creativity message me :)
 <br>
 <h1 align="center">Live Projects</h1>
 <br>
-    <p>Here are some links to live versions of my favourite projects:</p>
+    <p>Here are some links to the live versions of  some my favourite projects check out my portoflio for more.</p>
 <br>
 
   <a href="https://savethetheatre2021.netlify.app/" target="_blank">Save the Theater</a> 
