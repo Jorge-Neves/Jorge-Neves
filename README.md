@@ -27,10 +27,10 @@ If any of my repositories spark your creativity message me :)
 <h1 align="center">Live Projects</h1>
 <br>
 <br>
-<div align="center"> 
-  <a href="https://savethetheatre2021.netlify.app/" target="_blank"><img src="/Save.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a> 
-  <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank"><img src="/Harry.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
-  <a href="https://highnoontimetracker.netlify.app/" target="_blank"><img src="/High.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
+
+  <a href="https://savethetheatre2021.netlify.app/" target="_blank">Save the Theater</a> 
+  <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank">Quidditch Manager</a>
+  <a href="https://highnoontimetracker.netlify.app/" target="_blank">High Noon</a>
  </div> 
 <br>
 
