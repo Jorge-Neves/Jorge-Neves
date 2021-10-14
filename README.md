@@ -1,5 +1,6 @@
-<div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="200px" /> </div>
+<div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="200px" /></div>
 <h3>About Me </h3>
+<hr>
 <br>
 <p>Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :) </p>
@@ -15,6 +16,7 @@ If any of my repositories spark your creativity message me :) </p>
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
 <br>
 <h3 align="center">Live Projects</h3>
+<hr>
 <br>
     <p>Here are some links to the live versions of  some my favourite projects check out my portoflio for more.</p>
 <br>
