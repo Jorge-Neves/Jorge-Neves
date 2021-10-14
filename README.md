@@ -5,6 +5,7 @@
 <p>Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :) </p>
 <h3>Contacts</h3>
+<hr>
  <div align="center"> 
  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" height="75px" target="_blank"> </a> 
   <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><p>LinkedIn</p> </a> 
