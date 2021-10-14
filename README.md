@@ -1,6 +1,4 @@
 <div align="center"><img src="/Github_Banner.png" alt="A banner that introduces the user Paulo Santos" height="150px" /></div>
-<h3>About Me </h3>
-<hr>
 <br>
 <p>Greetings this is my GitHub page where you can learn more about me as a Developer and a creative.
 If any of my repositories spark your creativity message me :) </p>
@@ -14,8 +12,6 @@ If any of my repositories spark your creativity message me :) </p>
  <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/CV-removebg-preview.png" alt="linked in icon" height="75px" target="_blank"><p>CV</p> </a> 
 <div>
 <br>
-<img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" height="150px" alt="A computer flahsing" /> 
-<br>
 <h3 align="center">Live Projects</h3>
 <hr>
 <br>
@@ -27,5 +23,6 @@ If any of my repositories spark your creativity message me :) </p>
   <br>
   <a href="https://highnoontimetracker.netlify.app/" target="_blank">High Noon</a>
  </div> 
+ <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" height="150px" alt="A computer flahsing" /> 
 <br>
 <img src="/Github_Footer.png " alt="A Footer inviting visitors to connect" /> 
