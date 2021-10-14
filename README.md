@@ -17,7 +17,7 @@ If any of my repositories spark your creativity message me :)
  <div>
  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a> 
  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a>
-  <span>Paulo.Jorge.Ngs@gmail.com</span><span>+351 927434141</span> 
+  <p>Paulo.Jorge.Ngs@gmail.com</p><p>+351 927434141</p> 
 </div>
 
 
