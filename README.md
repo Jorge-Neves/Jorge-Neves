@@ -25,46 +25,14 @@ If any of my repositories spark your creativity message me :)
 <h1 align="center">Live Projects</h1>
 <br>
 <hr>
-
-
-<h1>Save The Theater</h1>
 <br>
-<hr>
-A vintage style RPG where the player actions decide the fate of the theatre:
-https://savethetheatre2021.netlify.app/
-
-
-Technologies
-<br>
-JavaScript | CSS | HTML | BootStrap | Netlify
-
-<hr>
-<br>
-<br>
-<br>
-<h1>Quidditch Manager</h1>
-<br>
-<hr>
-A fantasy sports simulator that was based on the sport of quidditch from the
-fictional series Harry Potter. The final version of this Express based full-stack app 
-is in the following link:
-
-https://quidditch-manager-project.herokuapp.com/
-
-Technologies
-NodeJS | Express | Handlebars | JavaScript | Rest API’s | CSS | HTML | Rest API’s  
+<div align="center"> 
+  <a href="https://savethetheatre2021.netlify.app/" target="_blank"><img src="/Save.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a> 
+  <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank"><img src="/Harry.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
+  <a href="https://highnoontimetracker.netlify.app/" target="_blank"><img src="/High.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
+ </div> 
 
 
 
-
-<br>
-<br>
-<br>
-<h1>High Noon</h1>
-<br>
-<hr>
-was the final project of the bootcamp so we developed a MERN stack High Noon is a productivity app
-that was designed with ADHD individuals in mind:
-https://highnoontimetracker.netlify.app/
 
 <img src="/Github_Footer.png " alt="A Footer inviting visitors to connect"> 
