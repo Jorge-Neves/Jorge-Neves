@@ -32,7 +32,7 @@ If any of my repositories spark your creativity message me :)
   <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank"><img src="/Harry.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
   <a href="https://highnoontimetracker.netlify.app/" target="_blank"><img src="/High.png" alt="thumbnail for Save the Theatre Project" target="_blank"> </a>
  </div> 
-
+<br>
 
 
 
