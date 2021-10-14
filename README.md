@@ -10,15 +10,13 @@ If any of my repositories spark your creativity message me :)
 
 <div align="center"> 
  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" target="_blank"> </a> 
+ <p>LinkedIn</p
+  </div>
+  <div align="center"> 
  <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/CV-removebg-preview.png" alt="linked in icon" target="_blank"><p>CV</p> </a> 
- 
- <div>
+  <div>
+
  <br>
-<!--  <div>
- <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/email-removebg-preview.png" alt="linked in icon" target="_blank"> </a> 
- <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/Phone-removebg-preview.png" alt="avatar icon" target="_blank"> </a>
-  <p>CV</p>
-</div> -->
 <br>
 <br>
 <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" alt="A computer flahsing"> 
