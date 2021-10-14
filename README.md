@@ -5,11 +5,12 @@ If any of my repositories spark your creativity message me :) </p>
 <h3>Contacts</h3>
 <hr>
  <div align="center"> 
- <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" height="75px" target="_blank"> </a> 
+<!--  <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><img src="/[removal.ai]_tmp-6167364925eeb.png" alt="linked in icon" height="75px" target="_blank"> </a>  -->
   <a href="https://www.linkedin.com/in/paulo-j-santos/" target="_blank"><p>LinkedIn</p> </a> 
   </div>
   <div align="center"> 
- <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/CV-removebg-preview.png" alt="linked in icon" height="75px" target="_blank"><p>CV</p> </a> 
+<!--  <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><img src="/CV-removebg-preview.png" alt="linked in icon" height="75px" target="_blank"></a>  -->
+ <a href="https://www.canva.com/design/DAErfI6CH8g/7mgDgCLMeK0VJj9Bq58mKg/view?utm_content=DAErfI6CH8g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank"><p>CV</p> </a> 
 <div>
 <br>
 <h3 align="center">Live Projects</h3>
