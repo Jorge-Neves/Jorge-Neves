@@ -29,4 +29,5 @@ If any of my repositories spark your creativity message me :) </p>
  <img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" height="150px" alt="A computer flahsing" /> 
   </div> 
 <br>
+ <img src="https://www.codewars.com/users/Jorge-Neves/badges/large" alt="codeWars user badge" />
 <img src="/Github_Footer.png " alt="A Footer inviting visitors to connect" /> 
