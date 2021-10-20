@@ -19,7 +19,7 @@ If any of my repositories spark your creativity message me :) </p>
     <p>Here are some links to the live versions of  some my favourite projects check out my portoflio for more.</p>
 <br>
 <div align="center">
-  <a href="https://savethetheatre2021.netlify.app/" target="_blank">Save the Theater</a> 
+  <a href="https://save-the-theater.netlify.app/" target="_blank">Save the Theater</a> 
   <br>
   <a href="https://quidditch-manager-project.herokuapp.com/" target="_blank">Quidditch Manager</a>
   <br>
