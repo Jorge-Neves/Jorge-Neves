@@ -83,4 +83,4 @@ If any of my repositories spark your creativity message me :) </p>
  <img src="https://www.codewars.com/users/Jorge-Neves/badges/large" alt="codeWars user badge" />
 <!--<img src="/Github_Footer.png " alt="A Footer inviting visitors to connect" /> --->
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=150&section=footer&text=Feel%20free%20to%20connect&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=150&section=footer&text=Feel%20free%20to%20connect&fontSize=40&animation=blinking&fontAlign=50&fontAlignY=70)
