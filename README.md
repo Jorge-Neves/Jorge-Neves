@@ -1,20 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=200&section=header&text=Paulo%20Santos&fontSize=60&animation=fadeIn&fontAlign=25&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=35&descAlign=75)
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Full%20Stack%20Developer&fontSize=40&animation=fadeIn&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=200&section=header&text=Paulo%20Santos&fontSize=60&fontAlign=25&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=35&descAlign=75&animation=fadeIn)
 
 
 <br>
 
 <p>
-<img src="/7577b71b1fa613d0032e31fbafb0bdcc.gif" height="300px" width =375px" align='left' alt="A computer flahsing" /> 
+<img src="/ggg.gif" alt="A computer flahsing" /> 
 </p>
 
-## Greetings 
-
-this is my GitHub page where you can learn more about me as a Developer and a creative.
-If any of my repositories spark your creativity message me :) 
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Contactst&fontSize=20&animation=fadeIn&fontAlign=50&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Contacts&fontSize=20&animation=fadeIn&fontAlign=50) 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&animation=fadeIn&fontAlign=50)
 
