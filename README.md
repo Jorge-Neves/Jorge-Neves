@@ -1,27 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=200&section=header&text=Paulo%20Santos&fontSize=60&fontAlign=25&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=35&descAlign=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=200&section=header&text=Paulo%20Santos&fontSize=60&fontColor=ffffff&fontAlign=25&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=35&descAlign=75&animation=fadeIn)
 
 
 <br>
 
 <p>
-<img src="/ggg.gif" alt="A computer flahsing" /> 
+<img src="/ggg.gif" alt="A flowing riverbranch" /> 
 </p>
 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Greetings&fontSize=50&fontColor=3a2961&fontAlign=50&desc=Thank%20you%20for%20stopping%20by&descAlignY=82&descAlign=53&animation=fadeIn) 
 
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Contacts&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50) 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Contacts&fontSize=20&animation=fadeIn&fontAlign=50) 
-
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
  
- ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Metrics&fontSize=20&animation=fadeIn&fontAlign=50)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Metrics&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
  ![Jorge-Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Neves&show_icons=true&count_private=true)
  ![Jorge-Neves](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Neves&hide=html&layout=compact&theme=default)
  <img src="https://www.codewars.com/users/Jorge-Neves/badges/large" alt="codeWars user badge" />
  
 
- ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=skills%20and%20tools&fontSize=20&animation=fadeIn&fontAlign=50)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=skills%20and%20tools&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
   <br>
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,5 +61,5 @@
 
 
  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=150&section=footer&text=Feel%20free%20to%20connect&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:376db8,100:6d37b8&height=150&section=footer&text=Feel%20free%20to%20connect&fontSize=40&animation=twinkling&fontColor=ffffff&fontAlign=50&fontAlignY=70)
  
