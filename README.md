@@ -11,7 +11,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Contacts&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50) 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Connect&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
+
+[![Gmail Badge](https://img.shields.io/badge/-paulo.jorge.ngs@gmail.com-282A36?style=flat-square&logo=Gmail&logoColor=red&link=mailto:paulo.jorge.ngs@gmail.com)](mailto:paulo.jorge.ngs@gmail.com) [![CV badge](https://img.shields.io/badge/CV-click%20me-purple??style=flat-square&link=https://drive.google.com/file/d/1VOlOGoUkZOUoigkTdnbTUlkTSDYeEUyG/view?usp=sharing)](https://drive.google.com/file/d/1VOlOGoUkZOUoigkTdnbTUlkTSDYeEUyG/view?usp=sharing) [![Portfolio badge](https://img.shields.io/badge/Portfolio-click%20me-purple??style=flat-square&link=https://paulo-j-santos.netlify.app/)](https://paulo-j-santos.netlify.app/) 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo_Santos-282A36?style=flat-square&logo=Linkedin&logoColor=red&link=www.linkedin.com/in/paulo-j-santos/)](www.linkedin.com/in/paulo-j-santos) 
+[![Twitter URL](https://img.shields.io/badge/-@PauloSa48145871-282A36?style=flat-square&logo=twitter&logoColor=red&url=https://twitter.com/PauloSa48145871)](https://twitter.com/PauloSa48145871)
+[![Codewars Badge](https://www.codewars.com/users/Jorge-Neves/badges/micro?style=flat-square&url=https://www.codewars.com/users/Jorge-Neves)](https://www.codewars.com/users/Jorge-Neves)
+
 
  
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Metrics&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
