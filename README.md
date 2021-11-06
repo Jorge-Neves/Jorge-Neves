@@ -3,11 +3,6 @@
 
 <br>
 
-<a href="https://paulo-j-santos.netlify.app/" target="_blank">
-
-<img src="/github2.gif" alt="A flowing riverbranch" width="auto" /> 
-
-</a>
 
 [![header](/github2.gif)](https://paulo-j-santos.netlify.app/)
 
