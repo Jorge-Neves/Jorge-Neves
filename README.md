@@ -9,7 +9,7 @@
 
 </a>
 
-[![GIF](//github2.gif)(]https://paulo-j-santos.netlify.app/)
+[![GIF](//github2.gif)](https://paulo-j-santos.netlify.app/)
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Greetings&fontSize=50&fontColor=3a2961&fontAlign=50&desc=Thank%20you%20for%20stopping%20by&descAlignY=82&descAlign=53&animation=fadeIn) 
