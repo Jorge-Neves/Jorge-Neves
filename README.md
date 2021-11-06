@@ -5,7 +5,7 @@
 
 <a href="https://paulo-j-santos.netlify.app/" target="_blank">
 
-<img src="/GitHubHeader.gif" alt="A flowing riverbranch" /> 
+<img src="/GitHubHeader.gif" alt="A flowing riverbranch" width="auto" /> 
 
 </a>
 
