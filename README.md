@@ -23,7 +23,7 @@
  
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=75&section=header&text=Metrics&fontSize=20&fontColor=3a2961&animation=twinkling&fontAlign=50)
 
- ![Jorge-Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Neves&show_icons=true&&card_width=400&count_private=true)
+ ![Jorge-Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorge-Neves&show_icons=true&&card_width=400&count_private=true&include_all_commits=true)
  ![Jorge-Neves](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Neves&hide=html&layout=compact&theme=default&langs_count=10)
  
  <img src="https://www.codewars.com/users/Jorge-Neves/badges/large" alt="codeWars user badge" />
